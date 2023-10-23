@@ -9,3 +9,6 @@ Documentos de identidad:
 Programa:
 -Ingeniería industrial
 -Ingeniería industrial
+
+Link Video entrega2
+https://www.youtube.com/watch?v=-UIPgME-Ong

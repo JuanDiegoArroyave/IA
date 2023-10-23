@@ -12,3 +12,5 @@ Programa:
 
 Link Video entrega2
 https://www.youtube.com/watch?v=-UIPgME-Ong
+
+Link dataset: https://www.kaggle.com/datasets/devansodariya/road-accident-united-kingdom-uk-dataset/data 
